@@ -114,8 +114,8 @@
     }
     
     button {
-        background: #7d2ae8;
-        border: 1px solid #7d2ae8;
+        background: linear-gradient( 135.9deg, rgba(109, 25, 252, 1) 16.4%, rgba(125, 31, 165, 1) 56.1%);
+        border: 1px solid #6f41ac;
         padding: .2em .2em;
         font-size: 1vmax;
         color: #fff;
